@@ -42,3 +42,5 @@ This program code shows storage of an integer type element into the stack. Howev
 
 For application of stack refer to the following website:-
 https://www.javatpoint.com/applications-of-stack-in-data-structure
+![image](https://user-images.githubusercontent.com/106736021/232187873-775d025a-82d6-4859-bf5d-35014f1e959a.png)
+
